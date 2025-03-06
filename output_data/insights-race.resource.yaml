@@ -8,6 +8,6 @@ path: insights-race.csv
 scheme: file
 format: csv
 mediatype: text/csv
-hash: da6289b1984022bae9085567989d2b81
-bytes: 98863
+hash: 93b3fa7dfade4b60710573959c67529e
+bytes: 107683
 schema: insights-race.schema.yaml
