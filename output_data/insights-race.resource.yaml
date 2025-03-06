@@ -1,0 +1,13 @@
+name: race
+type: table
+title: MORPC Insights | Race and Ethnicity
+description: Count and proportions of racial subgroups of the MORPC 15-County region
+  and the counties therein, according to the U.S. Census Population Estimates Program.
+profile: data-resource
+path: insights-race.csv
+scheme: file
+format: csv
+mediatype: text/csv
+hash: da6289b1984022bae9085567989d2b81
+bytes: 98863
+schema: insights-race.schema.yaml

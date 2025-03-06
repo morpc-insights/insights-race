@@ -1,0 +1,27 @@
+fields:
+  - name: GEOIDFQ
+    type: string
+    description: Fully-qualified GEOID. Unique identifier for geography.
+  - name: GEOTYPE
+    type: string
+    description: Description of the geographic summary level
+  - name: GEONAME
+    type: string
+    description: Name of geography
+  - name: YEAR
+    type: integer
+    description: Reference year for the subgroup population estimates
+  - name: RACE
+    type: string
+    description: Racial group
+  - name: PROPORTION
+    type: number
+    description: Proportion of people identifying as belonging to the indicated racial group
+primaryKey:
+  - GEOIDFQ
+  - YEAR
+  - RACE
+missingValues:
+  - ""
+
+
